@@ -13,5 +13,4 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 
 ## Mainboard
 
-This folder contains 2D drawings to enable Mainboard re-use.  We'll upload additional
-information like interface schematics soon.
+This folder contains 2D drawings and interface schematics to enable Mainboard re-use.
