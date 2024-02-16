@@ -14,3 +14,19 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 ## Mainboard
 
 This folder contains 2D drawings and interface schematics to enable Mainboard re-use.
+
+## Input Modules
+
+See https://github.com/FrameworkComputer/InputModules
+
+## Expansion Bay
+
+See https://github.com/frameworkComputer/ExpansionBay
+
+## Expansion Cards
+
+See https://github.com/frameworkComputer/ExpansionCards
+
+## Webcam
+
+See https://github.com/FrameworkComputer/Framework-Laptop-13/tree/main/Webcam
