@@ -20,6 +20,10 @@ skins, cases, and other accessories.  We're excited to see what you do with it!
 
 This folder contains 2D drawings and interface schematics to enable Mainboard re-use.
 
+## Touchpad
+
+This folder contains 3D printable CAD for single-piece replacement versions of the Touchpad row.
+
 ## Input Modules
 
 See https://github.com/FrameworkComputer/InputModules
