@@ -10,6 +10,8 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 
 This is 3D printable CAD of a single-piece alternative to the three-piece touchpad row
 on Framework Laptop 16.
+The best orientation to print this, is with the flat side (where the palms
+would rest) on the bottom facing the printer bed.
 
 You can directly unscrew the Touchpad Module itself and the daughterboard and screw them
 into the 3D printed plastic parts.  Be careful not to over-tighten the fasteners, since
