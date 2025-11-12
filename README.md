@@ -16,6 +16,10 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 External 3D CAD of the system and main modules to enable development of 3D-printed replacement parts,
 skins, cases, and other accessories.  We're excited to see what you do with it!
 
+## Case
+
+This folder contains a 3D printable case to reuse the Mainboard as a standalone computer.
+
 ## Mainboard
 
 This folder contains 2D drawings and interface schematics to enable Mainboard re-use.
