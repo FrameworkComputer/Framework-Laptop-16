@@ -43,3 +43,7 @@ See https://github.com/frameworkComputer/ExpansionCards
 ## Webcam
 
 See https://github.com/FrameworkComputer/Framework-Laptop-13/tree/main/Webcam
+
+## Display
+
+Pinout of the Display to enable re-use.
